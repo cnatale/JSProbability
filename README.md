@@ -1,0 +1,4 @@
+JSProbability
+=============
+
+JavaScript probability library
