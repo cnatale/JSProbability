@@ -1,4 +1,4 @@
 JSProbability
 =============
 
-JavaScript probability library
+A JavaScript statistical probability library.
